@@ -1927,7 +1927,7 @@ body {
   color: initial;
 }
 .cid-qwLuDb9x9t {
-  background-image: url("../../../assets/images/new-bio-pic-2000x999.jpg");
+  background-image: url("../../../assets/images/pink-shirt-bio-pic-2000x999.jpg");
 }
 .cid-qwLuDb9x9t .text-content {
   padding-top: 120px;
@@ -3565,13 +3565,12 @@ body {
   padding: 0;
 }
 .cid-qwWVHaSMWW .content-row {
-  background-color: #110e0e;
+  background-color: #f27d7a;
 }
 .cid-qwWVHaSMWW .content-row .media-content {
   display: flex;
   justify-content: center;
   flex-direction: column;
-  background-image: url("../../../assets/images/samantha-mockup-1280x960.jpg");
 }
 .cid-qwWVHaSMWW .content-row .media-content .mbr-overlay {
   background: linear-gradient(90deg, #110e0e, #e5524e);
